@@ -3,3 +3,4 @@ Log/
 .idea/
 files/*
 !files/*.csv
+!files/readme.MD
