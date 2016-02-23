@@ -4,3 +4,4 @@ Log/
 files/*
 !files/*.csv
 !files/readme.MD
+*.pyc
